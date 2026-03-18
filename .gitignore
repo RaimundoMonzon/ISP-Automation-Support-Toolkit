@@ -1,0 +1,39 @@
+# --- Sensitive Data & Credentials ---
+# Keep your ISP access tokens and private keys safe
+secrets/
+credentials.json
+*_private.json
+*.pfx
+*.bak
+
+# --- AutoHotkey & Build Artifacts ---
+# Exclude compiled binaries and logs
+*.exe
+*.log
+# If you use Ahk2Exe, it sometimes creates these
+*/.build/
+*.bin
+
+# --- Libraries & Dependencies ---
+# We generally keep /Lib in git since AHK doesn't have a package manager like NPM,
+# but we ignore specific local overrides or user-specific library data.
+Lib/*.user.ahk
+
+# --- Neutron.ahk / Web Specifics ---
+# Neutron uses a browser engine; ignore its temporary cache and local settings
+.neutron_cache/
+gui/node_modules/
+gui/*.map
+
+# --- OS / IDE Files ---
+.vscode/
+.history/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Project Specifics ---
+# Since you're using a Licenses folder, ensure we don't ignore it, 
+# but ignore any temporary scratchpad files you might use at work.
+scratchpad.txt
+temp_*
