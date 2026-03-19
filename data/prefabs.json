@@ -11,8 +11,8 @@
   "Hold-up": "Entiendo, aguarde un momento mientras verifico la información, ¿sí?",
   "Cambio SSID": "Perfecto, por favor indíqueme el nuevo nombre de la red que desea configurar.",
   "Cambio SSID Exitoso": "Perfecto, ya quedó registrado el nuevo nombre de la red. El servicio retomará automáticamente en unos minutos. Recuerde que deberá 'olvidar' la red en sus dispositivos y volver a conectarse con el nuevo nombre.",
-  "Cambio Contraseña": "Perfecto, por favor indíqueme la nueva contraseña que desea configurar. Tenga en cuenta que, por requerimientos del equipo, la misma debe tener un mínimo de 8 caracteres.",
-  "Cambio Contraseña Exitoso": "Perfecto, ya quedó registrada la nueva contraseña. El servicio retomará automáticamente en unos minutos. Recuerde que deberá 'olvidar' la red en sus dispositivos y volver a conectarse con la nueva clave.",
+  "Cambio wifipass": "Perfecto, por favor indíqueme la nueva contraseña que desea configurar. Tenga en cuenta que, por requerimientos del equipo, la misma debe tener un mínimo de 8 caracteres.",
+  "Cambio wifipass Exitoso": "Perfecto, ya quedó registrada la nueva contraseña. El servicio retomará automáticamente en unos minutos. Recuerde que deberá 'olvidar' la red en sus dispositivos y volver a conectarse con la nueva clave.",
   "Tecnico Enviado": "Perfecto, el técnico se estará comunicando antes de la visita dentro de las 72 hs hábiles. ¿Hay algo más en lo que lo pueda ayudar? ✦",
   "Tecnico Horas y Costo": "El horario y el día lo coordinará directamente con el técnico cuando este se comunique con usted. Respecto al costo, el técnico revisará el inconveniente en el lugar y le informará si la visita tiene cargo o está cubierta.",
   "Tecnico Reitero": "Le informo que he realizado una reiteración de su visita técnica programada para agilizar la resolución de su inconveniente. El técnico se estará comunicando con usted para coordinar el encuentro a la brevedad. ¿Hay algo más en lo que lo pueda ayudar?",
@@ -22,6 +22,7 @@
   "Unsuspended": "Le informo que, tras la reactivación de su cuenta, hemos detectado una demora en la sincronización de sus equipos. El servicio se restablecerá por completo en los próximos minutos.",
   "Transferencia Fuera de Horario": "Le informo que el horario de atención del Centro de Atención al Cliente es de lunes a viernes, 9hs a 17hs. Tendrá que volver a comunicarse dentro del horario indicado y ahí le sabrán brindar información.",
   "Inconveniente tecnico": "Hola, buenas tardes. Le informo que actualmente detectamos un inconveniente técnico general en su zona que afecta la estabilidad del servicio. Nuestro equipo ya está trabajando en la solución. El servicio se normalizará automáticamente en cuanto esté resuelto.",
+  "inconveniente tecnico Persiste": "Hola, buenas tardes. Lamentamos que el inconveniente técnico en su zona aún persista. Le informamos que nuestro equipo continúa trabajando para restablecer la estabilidad del servicio a la brevedad. La prestación se normalizará automáticamente una vez finalizadas las tareas de reparación.",
   "Closed": "Muchas gracias por comunicarse con nosotros. ¡Que tenga un buen día!",
   "Timed Out": "Ya que no hemos recibido respuesta de su parte en los últimos minutos, procederemos a cerrar este chat. Si aún necesita ayuda, puede contactarnos nuevamente en nuestro horario de 6 hs a 00 hs. ¡Que tenga un excelente día!",
   "Tecnico confirmar datos": "Le informo que será necesario enviar un servicio técnico para revisar el equipo y su orientación. Por favor, confírmeme sus datos de contacto:",
@@ -39,5 +40,6 @@
   "10BT desconectar": "Le pido si se puede acercar al router y desconectar el cable de Ethernet que le da internet al router y me avise cuando lo haya hecho, por favor.",
   "Step": "Aguarde un momento mientras verifico, ¿sí?",
   "DNS virus": " Le informo que detecté y corregí un error en la configuración del router; el servicio se cortará por unos minutos y luego retomará.",
-  "Speed Test": "Puede realizar un test de velocidad en 'fast.com', conectado a la red wifi, y enviarme captura luego de que aparezca el mensaje 'Mostrar más información'."
+  "Speed Test": "Puede realizar un test de velocidad en 'fast.com', conectado a la red wifi, y enviarme captura luego de que aparezca el mensaje 'Mostrar más información'.",
+  "Router no retoma": "Bien, en este caso parece haber algún problema con el router. Ya que ha realizado estos pasos y el inconveniente persiste, le voy a tener que enviar un técnico, ¿sí? Le pido, por favor, me confirme los siguientes datos:"
 }
