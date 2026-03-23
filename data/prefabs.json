@@ -10,7 +10,7 @@
 
   "Mareo reconectar Ethernet": "Finalmente, le pido que vuelva a conectar el cable de internet en el puerto de color azul en la parte trasera del router.",
 
-  "Router no retoma": "Bien, en este caso parece haber algún problema con el router. Ya que ha realizado estos pasos y el inconveniente persiste, le voy a tener que enviar un técnico, ¿sí? Le pido, por favor, me confirme los siguientes datos:"
+  "Router no retoma": "Bien, en este caso parece haber algún problema con el router. Ya que ha realizado estos pasos y el inconveniente persiste, le voy a tener que enviar un técnico, ¿sí? Le pido, por favor, me confirme los siguientes datos:",
 
   "Router remoto": "Muy bien, vamos a chequear que el acceso remoto del router esté activado. Para esto, le pido que ingrese a un buscador y escriba: http://192.168.11.1. Para realizar esto, debe estar conectado a la red Wi-Fi o al router por cable. Confírmeme cuando esté en la pantalla de inicio (login), por favor.",
 
@@ -92,6 +92,8 @@
 
   "Speed Test": "Puede realizar un test de velocidad en 'fast.com', conectado a la red wifi, y enviarme captura luego de que aparezca el mensaje 'Mostrar más información'.",
 
-  "NGN BQ migra": "Sí, en este caso su antena presenta malos valores y no me es posible mejorar la situación En caso de que el equipo técnico defina que no es posible realizar una mejora de manera remota, se enviará un servicio técnico De ser ese el caso, yo me estaré volviendo a comunicar con usted para notificarle."
+  "NGN BQ migra": "Sí, en este caso su antena presenta malos valores y no me es posible mejorar la situación En caso de que el equipo técnico defina que no es posible realizar una mejora de manera remota, se enviará un servicio técnico De ser ese el caso, yo me estaré volviendo a comunicar con usted para notificarle.",
+
+  "Visita tecnica pendiente": "Por lo que puedo ver, tiene una orden de vista técnica pendiente, por lo cual tendrá que aguardar a que el técnico lo visite para poder resolver el inconveniente. ¿Hay algo más en lo que lo pueda ayudar?"
 
 }

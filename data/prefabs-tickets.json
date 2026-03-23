@@ -1,0 +1,12 @@
+{
+    "SM 0% DL retoma": "SM con 0% downlink; se indican pruebas básicas, retoma con normalidad.",
+    "SM 0% DL no retoma": "SM con 0% downlink; se indican pruebas básicas, no retoma.",
+    "SM IDLE retoma": "SM en IDLE; se indican pruebas básicas, retoma con normalidad.",
+    "SM IDLE no retoma": "SM en IDLE; se indican pruebas básicas, no retoma.",
+    "SM tildado retoma": "SM tildado; se indican pruebas básicas, retoma con normalidad.",
+    "SM tildado no retoma": "SM tildado; se indican pruebas básicas, no retoma.",
+    "SM no AP retoma": "SM no se registra en el AP; se indican pruebas básicas, retoma con normalidad.",
+    "SM no AP no retoma": "SM no se registra en el AP; se indican pruebas básicas, no retoma.",
+    "VLAN 1": "VLAN 1; se reinicia el SM, retoma con normalidad.",
+    "VLAN 10": "VLAN 10; se reinicia el SM, retoma con normalidad."
+}
